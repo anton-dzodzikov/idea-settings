@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-migrations" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="log_service_sso" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-migrations" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="fin" type="PLAIN_TEXT" />
       <mapping ext="1_06" type="PLAIN_TEXT" />
