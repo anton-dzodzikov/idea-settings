@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-jrs" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="log_service_sso" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-migrations" type="PLAIN_TEXT" />
