@@ -3,36 +3,8 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://192.168.1.38/backoffice/log-service.git" />
+          <option name="url" value="https://backoffice-gitlab.cardpay-test.com/banking/cbs.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/anton-dzodzikov/taskmaster-operations.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/anton-dzodzikov/supervizor.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://backoffice-gitlab.cardpay-test.com/banking/ibank-ui.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/anton-dzodzikov/budget-planner.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://backoffice-gitlab.cardpay-test.com/global/operation-executor.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://backoffice-gitlab.cardpay-test.com/global/web.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="anton-dzodzikov" />
         </UrlAndUserName>
       </list>
     </option>
