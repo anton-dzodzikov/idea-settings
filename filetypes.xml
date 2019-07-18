@@ -5,7 +5,6 @@
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="R__V_TRIAL_BALANCES" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
